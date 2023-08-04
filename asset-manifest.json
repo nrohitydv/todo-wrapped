@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nrohitydv/todo-wrapped/static/css/main.da3089f3.css",
+    "main.js": "/nrohitydv/todo-wrapped/static/js/main.e6d38301.js",
+    "index.html": "/nrohitydv/todo-wrapped/index.html",
+    "main.da3089f3.css.map": "/nrohitydv/todo-wrapped/static/css/main.da3089f3.css.map",
+    "main.e6d38301.js.map": "/nrohitydv/todo-wrapped/static/js/main.e6d38301.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3089f3.css",
+    "static/js/main.e6d38301.js"
+  ]
+}
